@@ -1,37 +1,51 @@
 # Film_manage
-
-#### 介绍
 电影后台管理系统，Spring+SpringMVC+Mybatis（SSM）
 
-#### 软件架构
-软件架构说明
+## 项目部署
+
+该项目是`idea`版本，Maven项目，**该项目用了大量的容错机制，前后端并用**
+
+**Javaweb+Spring+SpringMVC+Mybatis**
+
+>
+>
+>记得`Maven依赖`的导入，给你们放在项目里了。
+>
+>创建好数据库，更改项目中数据库密码，sql文件也给你了。
+>
+>记得部署`Tomcat`
+>
+>
+
+**项目功能：**
+
+- 登录、注册
+- 用户部分：本系统四大部分之一，共有修改个人信息、修改密码
+- 电影部分：本系统四大部分之一，共有浏览电影信息、添加电影信息、查询电影信息、删除电影、修改电影信息、电影详情页面
+- 新闻部分：本系统四大部分之一，共有添加新闻信息、查询新闻信息、修改新闻信息、删除新闻
+- 类型部分：本系统四大部分之一，共有添加类型信息、查询类型信息、修改类型信息、删除类型
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 项目展示
 
-#### 使用说明
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191702.png" alt="1" style="zoom:50%;" />
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191707.png" alt="2" style="zoom:50%;" />
 
-#### 参与贡献
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191711.png" alt="3" style="zoom:50%;" />
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191833.png" alt="4" style="zoom:50%;" />
 
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191842.png" alt="5" style="zoom:50%;" />
 
-#### 特技
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191725.png" alt="6" style="zoom:50%;" />
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191728.png" alt="7" style="zoom:50%;" />
+
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191731.png" alt="8" style="zoom:50%;" />
+
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191735.png" alt="9" style="zoom:50%;" />
+
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191739.png" alt="10" style="zoom:50%;" />
+

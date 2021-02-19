@@ -1,36 +1,47 @@
 # Film_manage
+Movie background management system，
+Spring+SpringMVC+Mybatis（SSM）
 
-#### Description
-电影后台管理系统，Spring+SpringMVC+Mybatis（SSM）
+##Project deployment
+This project is the 'idea' version, Maven project * * this project uses a lot of fault tolerance mechanisms, and uses both the front end and the back end**
+**Javaweb+Spring+SpringMVC+Mybatis**
+>
+>
+>Remember that the import of 'Maven dependency' was put in the project for you.
+>
+>Create a good database, change the project database password, SQL file is also given to you.
+>
+>Remember to deploy ` Tomcat`
+>
+>
+**Project function:**
+-Login, register
+-User part: one of the four parts of the system, a total of personal information modification, password modification
+-Movie part: one of the four parts of the system, including browsing movie information, adding movie information, querying movie information, deleting movie, modifying movie information and movie details page
+-News part: one of the four major parts of the system, a total of add news information, query news information, modify news information, delete news
+-Type part: one of the four parts of the system, including adding type information, querying type information, modifying type information and deleting type information
 
-#### Software Architecture
-Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+##Project presentation
 
 
-#### Gitee Feature
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191702.png" alt="1" style="zoom:50%;" />
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191707.png" alt="2" style="zoom:50%;" />
+
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191711.png" alt="3" style="zoom:50%;" />
+
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191833.png" alt="4" style="zoom:50%;" />
+
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191842.png" alt="5" style="zoom:50%;" />
+
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191725.png" alt="6" style="zoom:50%;" />
+
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191728.png" alt="7" style="zoom:50%;" />
+
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191731.png" alt="8" style="zoom:50%;" />
+
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191735.png" alt="9" style="zoom:50%;" />
+
+<img src="https://gitee.com/MoYu-zc/picgo/raw/master/img/20210218191739.png" alt="10" style="zoom:50%;" />
+
+
