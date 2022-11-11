@@ -27,221 +27,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57435af4-3bfe-4857-afed-a137e61915cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_penggle_kaptcha_2_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jhlabs_filters_2_0_235.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_2_1_b03.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_impl_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_taglibs_taglibs_standard_spec_1_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_2_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/film.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/film_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ac133d1c-01ec-4509-9646-320d182faa09.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/ac133d1c-01ec-4509-9646-320d182faa09/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/1.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/WEB-INF/classes/ApplicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/WEB-INF/classes/META-INF/电影后台管理.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/WEB-INF/classes/SpringMVC.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/WEB-INF/classes/com/zc/Dao/FilmMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/WEB-INF/classes/com/zc/Dao/NewsMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/WEB-INF/classes/com/zc/Dao/TypesMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/WEB-INF/classes/com/zc/Dao/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/WEB-INF/classes/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/WEB-INF/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/WEB-INF/classes/spring-dao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/WEB-INF/classes/spring-service.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/css/admin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/css/amazeui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/css/frame.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/app-icon72x72@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/examples/admin-chrome.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/examples/admin-firefox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/examples/admin-ie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/examples/admin-opera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/examples/admin-safari.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/examples/adminPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/examples/blogPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/examples/landing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/examples/landingPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/examples/loginPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/examples/sidebarPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/i/startup-640x1096.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/img/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/js/amazeui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/js/echarts.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/js/iscroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/assets/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/core-1000px.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/core-1200px.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/core-desktop.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/core-fluid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/core-mobile.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/core-noscript.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/core.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/html5shiv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/mobileUI-beveled.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/mobileUI-flat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/5grid/mobileUI-modern.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/fonts/LigatureSymbols-2.11.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/fonts/LigatureSymbols-2.11.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/fonts/LigatureSymbols-2.11.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/fonts/LigatureSymbols-2.11.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/ie8.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/images/overlay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/lq.datetimepick.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/normalize.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/noscript.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/owl-carousel.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/style-desktop.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/style-mobile.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/style_s.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/css/templatemo-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/film/File_cate.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/film/Film_Details.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/film/Film_pre.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/film/file_update.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/Roboto-Bold-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/Roboto-Bold-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/Roboto-Bold-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/Roboto-Bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/Roboto-Light-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/Roboto-Light-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/Roboto-Light-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/Roboto-Light-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/Roboto-Regular-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/Roboto-Regular-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/Roboto-Regular-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/Roboto-Regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/images/._bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/images/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/images/film.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/images/info.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/jquery-3.4.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/chroma.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/common.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/dat.gui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/jquery-1.9.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/jquery-3.4.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/jquery.formerize-1.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/lq.datetimepick.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/selectUi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/js/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/main.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/news/addnew.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/news/new_info.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/person/person_info.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/person/updatepwd.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/sidebar.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/top.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/video/jj.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/video/sq.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/_war_exploded/video/导入视频.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/Controller/FilmController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/Controller/FilmController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/Controller/NewsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/Controller/NewsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/Controller/TypesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/Controller/TypesController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/Controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/Controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/Dao/FilmMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/Dao/FilmMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/Dao/FilmMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/Dao/FilmMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/Dao/NewsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/Dao/NewsMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/Dao/TypesMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/Dao/TypesMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/Dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/Dao/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/Fliter/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/Fliter/LoginInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/Service/FilmService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/Service/FilmService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/Service/FilmServiceimpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/Service/FilmServiceimpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zc/pojo/user.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zc/pojo/user.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/ApplicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/jdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jdbc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ApplicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/电影后台管理.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SpringMVC.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zc/Dao/FilmMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zc/Dao/NewsMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zc/Dao/TypesMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/zc/Dao/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/db.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring-dao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring-service.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/1.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/1.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/film/Film_Details.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/film/Film_Details.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/js/lq.datetimepick.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/lq.datetimepick.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/js/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/js/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/news/addnew.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/news/addnew.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/person/person_info.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/person/person_info.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/电影后台管理.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="57435af4-3bfe-4857-afed-a137e61915cb" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -382,8 +168,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668137715047</updated>
-      <workItem from="1668137716154" duration="8328000" />
+      <workItem from="1668137716154" duration="9090000" />
     </task>
+    <task id="LOCAL-00001" summary="ssm电影管理，登录注册同页面，修复注册电影播放功能">
+      <created>1668159230501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668159230501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ssm电影管理，登录注册同页面，修复注册电影播放功能">
+      <created>1668159617873</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668159617874</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -400,6 +201,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ssm电影管理，登录注册同页面，修复注册电影播放功能" />
+    <option name="LAST_COMMIT_MESSAGE" value="ssm电影管理，登录注册同页面，修复注册电影播放功能" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="223" y="21" width="1089" height="803" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668138017232">
       <screen x="0" y="0" width="1536" height="824" />
@@ -409,89 +214,101 @@
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
     <state x="-1077" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158331558" />
-    <state width="1050" height="255" key="GridCell.Tab.0.bottom" timestamp="1668158858970">
+    <state x="-947" y="357" key="Github.ShareDialog" timestamp="1668159473544">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158858970" />
+    <state x="-947" y="357" key="Github.ShareDialog/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159473544" />
+    <state width="1050" height="255" key="GridCell.Tab.0.bottom" timestamp="1668159107610">
+      <screen x="-1920" y="-93" width="1920" height="1040" />
+    </state>
+    <state width="1050" height="255" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107610" />
     <state width="1024" height="139" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294720" />
-    <state width="1050" height="255" key="GridCell.Tab.0.center" timestamp="1668158858970">
+    <state width="1050" height="255" key="GridCell.Tab.0.center" timestamp="1668159107610">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158858970" />
+    <state width="1050" height="255" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107610" />
     <state width="1024" height="139" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294720" />
-    <state width="1050" height="255" key="GridCell.Tab.0.left" timestamp="1668158858969">
+    <state width="1050" height="255" key="GridCell.Tab.0.left" timestamp="1668159107610">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158858969" />
+    <state width="1050" height="255" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107610" />
     <state width="1024" height="139" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294720" />
-    <state width="1050" height="255" key="GridCell.Tab.0.right" timestamp="1668158858970">
+    <state width="1050" height="255" key="GridCell.Tab.0.right" timestamp="1668159107610">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158858970" />
+    <state width="1050" height="255" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107610" />
     <state width="1024" height="139" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294720" />
-    <state width="1050" height="255" key="GridCell.Tab.1.bottom" timestamp="1668158858970">
+    <state width="1050" height="255" key="GridCell.Tab.1.bottom" timestamp="1668159107613">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158858970" />
+    <state width="1050" height="255" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107613" />
     <state width="1024" height="139" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294721" />
-    <state width="1050" height="255" key="GridCell.Tab.1.center" timestamp="1668158858970">
+    <state width="1050" height="255" key="GridCell.Tab.1.center" timestamp="1668159107612">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.1.center/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158858970" />
+    <state width="1050" height="255" key="GridCell.Tab.1.center/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107612" />
     <state width="1024" height="139" key="GridCell.Tab.1.center/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294721" />
-    <state width="1050" height="255" key="GridCell.Tab.1.left" timestamp="1668158858970">
+    <state width="1050" height="255" key="GridCell.Tab.1.left" timestamp="1668159107611">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.1.left/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158858970" />
+    <state width="1050" height="255" key="GridCell.Tab.1.left/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107611" />
     <state width="1024" height="139" key="GridCell.Tab.1.left/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294721" />
-    <state width="1050" height="255" key="GridCell.Tab.1.right" timestamp="1668158858970">
+    <state width="1050" height="255" key="GridCell.Tab.1.right" timestamp="1668159107613">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.1.right/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158858970" />
+    <state width="1050" height="255" key="GridCell.Tab.1.right/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107613" />
     <state width="1024" height="139" key="GridCell.Tab.1.right/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294721" />
-    <state width="1050" height="255" key="GridCell.Tab.2.bottom" timestamp="1668158542297">
+    <state width="1050" height="255" key="GridCell.Tab.2.bottom" timestamp="1668159107613">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.2.bottom/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158542297" />
+    <state width="1050" height="255" key="GridCell.Tab.2.bottom/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107613" />
     <state width="1024" height="139" key="GridCell.Tab.2.bottom/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294572" />
-    <state width="1050" height="255" key="GridCell.Tab.2.center" timestamp="1668158542297">
+    <state width="1050" height="255" key="GridCell.Tab.2.center" timestamp="1668159107613">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.2.center/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158542297" />
+    <state width="1050" height="255" key="GridCell.Tab.2.center/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107613" />
     <state width="1024" height="139" key="GridCell.Tab.2.center/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294572" />
-    <state width="1050" height="255" key="GridCell.Tab.2.left" timestamp="1668158542297">
+    <state width="1050" height="255" key="GridCell.Tab.2.left" timestamp="1668159107613">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.2.left/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158542297" />
+    <state width="1050" height="255" key="GridCell.Tab.2.left/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107613" />
     <state width="1024" height="139" key="GridCell.Tab.2.left/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294572" />
-    <state width="1050" height="255" key="GridCell.Tab.2.right" timestamp="1668158542297">
+    <state width="1050" height="255" key="GridCell.Tab.2.right" timestamp="1668159107613">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.2.right/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158542297" />
+    <state width="1050" height="255" key="GridCell.Tab.2.right/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107613" />
     <state width="1024" height="139" key="GridCell.Tab.2.right/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294572" />
-    <state width="1050" height="255" key="GridCell.Tab.3.bottom" timestamp="1668158542297">
+    <state width="1050" height="255" key="GridCell.Tab.3.bottom" timestamp="1668159107613">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.3.bottom/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158542297" />
+    <state width="1050" height="255" key="GridCell.Tab.3.bottom/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107613" />
     <state width="1024" height="139" key="GridCell.Tab.3.bottom/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294572" />
-    <state width="1050" height="255" key="GridCell.Tab.3.center" timestamp="1668158542297">
+    <state width="1050" height="255" key="GridCell.Tab.3.center" timestamp="1668159107613">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.3.center/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158542297" />
+    <state width="1050" height="255" key="GridCell.Tab.3.center/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107613" />
     <state width="1024" height="139" key="GridCell.Tab.3.center/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294572" />
-    <state width="1050" height="255" key="GridCell.Tab.3.left" timestamp="1668158542297">
+    <state width="1050" height="255" key="GridCell.Tab.3.left" timestamp="1668159107613">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.3.left/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158542297" />
+    <state width="1050" height="255" key="GridCell.Tab.3.left/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107613" />
     <state width="1024" height="139" key="GridCell.Tab.3.left/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294572" />
-    <state width="1050" height="255" key="GridCell.Tab.3.right" timestamp="1668158542297">
+    <state width="1050" height="255" key="GridCell.Tab.3.right" timestamp="1668159107613">
       <screen x="-1920" y="-93" width="1920" height="1040" />
     </state>
-    <state width="1050" height="255" key="GridCell.Tab.3.right/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668158542297" />
+    <state width="1050" height="255" key="GridCell.Tab.3.right/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159107613" />
     <state width="1024" height="139" key="GridCell.Tab.3.right/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668138294572" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1668137993709">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="SettingsEditor/0.0.1536.824/-1920.-93.1920.1040@0.0.1536.824" timestamp="1668137993709" />
+    <state x="-1218" y="193" key="Vcs.Push.Dialog.v2" timestamp="1668159404682">
+      <screen x="-1920" y="-93" width="1920" height="1040" />
+    </state>
+    <state x="-1218" y="193" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159404682" />
+    <state x="-1007" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1668159428910">
+      <screen x="-1920" y="-93" width="1920" height="1040" />
+    </state>
+    <state x="-1007" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/-1920.-93.1920.1040@-1920.-93.1920.1040" timestamp="1668159428910" />
   </component>
 </project>
