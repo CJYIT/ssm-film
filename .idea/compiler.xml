@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="电影后台管理" />
+        <module name="film" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="film" target="6" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -13,6 +13,7 @@
                 <!--不拦截的连接-->
 <!--                <mvc:exclude-mapping path="/index.jsp"/>-->
                 <mvc:exclude-mapping path="/Login"/>
+                <mvc:exclude-mapping path="/register"/>
                 <bean class="com.zc.Fliter.LoginInterceptor"/>
             </mvc:interceptor>
         </mvc:interceptors>

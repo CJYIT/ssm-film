@@ -21,7 +21,7 @@ public class FilmServiceimpl implements FilmService {
         return filmMapper.AllFilm();
     }
 
-    public List<film> selectfilmByISDN(int ISDN) {
+    public List<film> selectfilmByISDN(String ISDN) {
         return filmMapper.selectfilmByISDN(ISDN);
     }
 

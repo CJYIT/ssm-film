@@ -20,7 +20,7 @@ public interface FilmService {
      * @param ISDN
      * @return
      */
-    public List<film> selectfilmByISDN(int ISDN);
+    public List<film> selectfilmByISDN(String ISDN);
 
     /**
      * 通过导演查电影

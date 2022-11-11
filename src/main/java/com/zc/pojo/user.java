@@ -8,14 +8,12 @@ public class user {
     private Integer id;
     private String username;
     private String paw;
-    private Integer tele;
+    private String tele;
     private String email;
 
 
     public user() {
     }
-
-
 
     public Integer getId() {
         return id;
@@ -41,11 +39,11 @@ public class user {
         this.paw = paw;
     }
 
-    public Integer getTele() {
+    public String getTele() {
         return tele;
     }
 
-    public void setTele(Integer tele) {
+    public void setTele(String tele) {
         this.tele = tele;
     }
 
@@ -68,7 +66,7 @@ public class user {
                 '}';
     }
 
-    public user(Integer id, String username, String paw, Integer tele, String email) {
+    public user(Integer id, String username, String paw, String tele, String email) {
         this.id = id;
         this.username = username;
         this.paw = paw;

@@ -4,10 +4,7 @@ import com.zc.pojo.news;
 
 import java.util.List;
 
-/**
- * @author MoYu-zc
- * @date 2020/12/17 23:40
- */
+
 public interface NewsMapper {
 
     /**

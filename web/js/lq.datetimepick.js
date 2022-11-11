@@ -203,11 +203,11 @@ $.fn.lqdatetimepicker.setSelectData = function(_this,type){
     var _select = $("<select></select>");
     if(type == 'Y'){
         _data = $.fn.lqdatetimepicker.intYearTime(_this);
-        _cell = '年';
+        _cell = ' year';
     }
     if(type == 'M'){
         _data = $.fn.lqdatetimepicker.intMonthTime(_this);
-        _cell = '月'
+        _cell = ' month'
     }
     for(var i=0; i<_data.length; i++){
         $("<option></option>").text(_data[i]+_cell).attr("value",_data[i]).appendTo(_select);
@@ -283,7 +283,7 @@ $.fn.lqdatetimepicker.intYearTime = function(_this){
 }
 
 $.fn.lqdatetimepicker.intWeek = function(){
-    return ['星期日','星期一','星期二','星期三','星期四','星期五','星期六']
+    return ['Sunday','Monday','Tuesday','Wednesday','Tuesday','Friday','Saturday']
 }
 
 $.fn.lqdatetimepicker.dateAdd = function(interval, NumDay, dtDate){

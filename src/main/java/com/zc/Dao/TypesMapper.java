@@ -4,10 +4,7 @@ import com.zc.pojo.types;
 
 import java.util.List;
 
-/**
- * @author MoYu-zc
- * @date 2020/12/16 18:00
- */
+
 public interface TypesMapper {
 
     /**

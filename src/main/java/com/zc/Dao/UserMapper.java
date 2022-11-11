@@ -4,10 +4,6 @@ import com.zc.pojo.user;
 
 import java.util.List;
 
-/**
- * @author MoYu-zc
- * @date 2020/12/14 11:18
- */
 public interface UserMapper {
 
     /**

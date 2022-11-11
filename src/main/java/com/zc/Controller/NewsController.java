@@ -15,10 +15,6 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
-/**
- * @author MoYu-zc
- * @date 2020/12/17 23:58
- */
 @Controller
 public class NewsController {
 
@@ -44,19 +40,16 @@ public class NewsController {
            if(allnew.getISDN().equals(news.getISDN())){
               request.setAttribute("addnew","已经有该新闻编号");
               return "news/addnew.jsp";
-           }else {
-               int i = newsService.addNew(news);
-               if(i>0){
-                   request.setAttribute("addnew","上传成功");
-                   return "news/addnew.jsp";
-               }else{
-                   request.setAttribute("addnew","上传失败");
-                   return "news/addnew.jsp";
-               }
            }
-
         }
-        return "news/addnew.jsp";
+        int i = newsService.addNew(news);
+        if(i>0){
+            request.setAttribute("addnew","上传成功");
+            return "news/addnew.jsp";
+        }else{
+            request.setAttribute("addnew","上传失败");
+            return "news/addnew.jsp";
+        }
     }
 
     @RequestMapping("/snew")

@@ -27,7 +27,7 @@
                 // 验证用户信息
                 if (!usernameReg.test(usernameValue)) {
                     // 提示用户
-                    $(".errorMsg2").text("用户名不合法！");
+                    $(".errorMsg2").text("用户名不合法！必须由字母，数字，下划线组成，并且长度为5到15位。");
 
                     $("#username").val("");
                     return false;

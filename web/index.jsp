@@ -368,15 +368,15 @@ $(function () {
         <form action="Login" method="post" id="f1">
         <label>
             <span>账号</span>
-            <input type="text" id="username" name="username"/>
+            <input type="text" id="username" name="username" value="111111"/>
         </label>
         <label>
             <span>密码</span>
-            <input type="password" id="password" name="password"/>
+            <input type="password" id="password" name="password" value="111111"/>
         </label>
         <label>
-            <span>验证码</span>
-            <input  type="text"   name="code" id="code"/><br>
+            <span>验证码方便测试改为写死的</span>
+            <input  type="text"   name="code" id="code" value="111"/><br>
             <img alt="" src="code.jpg" style="float: right; margin-right: 70px;width:115px;height: 40px;" id="codeImg">
         </label>
         <br>
@@ -406,7 +406,6 @@ $(function () {
         <div class="form sign-up">
             <h2>立即注册</h2>
          <form action="register" method="post" id="f2">
-
             <label>
                 <span>用户名</span>
                 <input type="text" id="username1" name="username"/>
@@ -421,7 +420,7 @@ $(function () {
             </label>
             <label>
                 <span>手机号</span>
-                <input type="text" id="tele" name="tele"/>
+                <input type="String" id="tele" name="tele"/>
             </label>
             <label>
                 <span>邮箱</span>

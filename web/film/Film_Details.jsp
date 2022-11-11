@@ -60,7 +60,9 @@
         <!-- Work -->
         <article id="work" class="panel">
 <center>
-                <video src="${filmDe.href}" controls="true" style="height: 450px;width: 800px;background-color: black;object-fit: fill;" controlslist="nodownload" ></video>
+                <video controls="true" style="height: 450px;width: 800px;background-color: black;object-fit: fill;" controlslist="nodownload" >
+                    <source src="${filmDe.href}" type="video/mp4">
+                </video>
 </center>
             <br>
             <header>

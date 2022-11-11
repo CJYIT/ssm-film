@@ -4,10 +4,7 @@ import com.zc.pojo.film;
 
 import java.util.List;
 
-/**
- * @author MoYu-zc
- * @date 2020/12/18 15:39
- */
+
 public interface FilmMapper {
 
     /**
@@ -21,7 +18,7 @@ public interface FilmMapper {
      * @param ISDN
      * @return
      */
-    public List<film> selectfilmByISDN(int ISDN);
+    public List<film> selectfilmByISDN(String ISDN);
 
     /**
      * 通过导演查电影

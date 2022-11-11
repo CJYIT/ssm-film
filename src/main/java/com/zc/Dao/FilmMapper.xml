@@ -9,7 +9,7 @@
         select * from film.film
     </select>
 
-    <select id="selectfilmByISDN" parameterType="int" resultType="com.zc.pojo.film">
+    <select id="selectfilmByISDN" resultType="com.zc.pojo.film">
           select * from film.film where ISDN = #{ISDN}
     </select>
 

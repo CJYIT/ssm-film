@@ -5,7 +5,8 @@
   Time: 15:43
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%--<%@ page contentType="text/html;charset=UTF-8" language="java" %>--%>
+<%@ page language="java" contentType="text/html;charset=UTF-8" pageEncoding="utf-8"%>
 <!doctype html>
 <html>
 <head>
@@ -209,7 +210,7 @@
                     </label>
 
                     <label><span>发表时间:</span>
-                        <input type="text"  name="date" id="datetimepicker3" />
+                        <input type="text" name="date" id="datetimepicker3" />
                     </label>
 
                     <label><span>新闻内容 :</span>
@@ -242,7 +243,6 @@
 <script src='../js/lq.datetimepick.js' type='text/javascript'></script>
 <script type="text/javascript">
     $(function (){
-
         $("#datetimepicker3").on("click",function(e){
             e.stopPropagation();
             $(this).lqdatetimepicker({
